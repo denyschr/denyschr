@@ -16,7 +16,7 @@ I'm a student and aspiring front-end developer <img src="gif/cat.gif" width="25"
 
 ### <img src="gif/gears.gif" width="25"> Tools:
 
-[![Tools](https://skillicons.dev/icons?i=git,vscode,linux,figma,codepen)](https://skillicons.dev)
+![Tools](https://skillicons.dev/icons?i=git,vscode,linux,figma,codepen)](https://skillicons.dev)
 
 ---
 
