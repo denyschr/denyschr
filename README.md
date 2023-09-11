@@ -23,6 +23,6 @@ I'm a student and aspiring front-end developer <img src="gif/cat.gif" width="25"
 ### <img src="gif/star.gif" width="25"> Keep in touch:
 
 [![Discrod](https://skillicons.dev/icons?i=discord)](https://discordapp.com/users/929354461783138304)
-[![Twitter](https://skillicons.dev/icons?i=twitter)](https://google.com)
+[![Twitter](https://skillicons.dev/icons?i=twitter)](https://twitter.com/denwebpro)
 
 <img src="img/technologies.png">
