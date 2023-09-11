@@ -2,7 +2,7 @@
 
 ### <img src="gif/pro-level-debugging.gif" width="25"> About me:
 
-I'm a student and aspiring front-end developer <img src="gif/cat.gif" width="25"> from Ukraine. I've always been into development and computer science. So far I work on various projects.
+I'm a student and aspiring front-end developer <img src="gif/cat.gif" width="25"> from Ukraine. I've always been into development and computer science.
 
 <p align="center">
 	<img src="gif/development.gif" width="600">
