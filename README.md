@@ -12,7 +12,7 @@ I'm a student and aspiring front-end developer <img src="gif/cat.gif" width="25"
 
 [![Technologies](https://skillicons.dev/icons?i=js,dart,html,css,sass,gulp,webpack)](https://skillicons.dev)
 
-<img src="gif/gradient-line.gif">
+---
 
 ### <img src="gif/gears.gif" width="25"> Tools:
 
