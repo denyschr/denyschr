@@ -18,7 +18,7 @@ I'm a student and aspiring front-end developer <img src="gif/cat.gif" width="25"
 
 [![Tools](https://skillicons.dev/icons?i=git,vscode,linux,figma,codepen)](https://skillicons.dev)
 
-<img src="gif/gradient-line.gif">
+---
 
 ### <img src="gif/star.gif" width="25"> Keep in touch:
 
