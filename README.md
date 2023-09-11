@@ -22,6 +22,6 @@ I'm a student and aspiring front-end developer <img src="gif/cat.gif" width="25"
 
 ### <img src="gif/star.gif" width="25"> Keep in touch:
 
-[Discrod](https://skillicons.dev/icons?i=discord)
+![Discrod](https://skillicons.dev/icons?i=discord)
 
 <img src="img/technologies.png">
