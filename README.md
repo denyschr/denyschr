@@ -11,7 +11,7 @@ I'm a student and aspiring front-end developer <img src="gif/cat.gif" width="25"
 - 🔭 I’m working on different projects.
 - 🌱 I’m currently learning Javascript.
 - ⚡ In my free time I do workout, read tech and business articles.
-- 📫 How to reach me: &nbsp; [![Telegram](https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/den_progman)
+- 📫 How to reach me: &nbsp; [![Telegram Badge](https://img.shields.io/badge/-filimonovalexey-blue?style=flat&logo=Telegram&logoColor=white)](https://t.me/den_progman)
 
 ### <img src="gif/rocket.gif" width="25"> Technologies:
 
