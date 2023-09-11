@@ -5,8 +5,13 @@
 I'm a student and aspiring front-end developer <img src="gif/cat.gif" width="25"> from Ukraine. I've always been into development and computer science. So far I work on various projects.
 
 <p align="center">
-	<img src="gif/development.gif" width="800">
+	<img src="gif/development.gif" width="600">
 </p>
+
+- 🔭 I’m working on different projects.
+- 🌱 I’m currently learning Javascript.
+- ⚡ In my free time I do workout, read tech and business articles.
+- 📫 How to reach me: &nbsp; [![Telegram](https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/den_progman)
 
 ### <img src="gif/rocket.gif" width="25"> Technologies:
 
