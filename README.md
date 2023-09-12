@@ -9,7 +9,7 @@ I'm a student and aspiring front-end developer <img src="gif/cat.gif" width="25"
 </p>
 
 - 🔭 I’m working on different projects.
-- 🌱 I’m currently learning Javascript.
+- 🌱 I’m currently in process of learning Javascript and English.
 - ⚡ In my free time I do workout, read tech and business articles.
 - 📫 How to reach me: &nbsp; [![Telegram Badge](https://img.shields.io/badge/-den_progman-blue?style=flat&logo=Telegram&logoColor=white)](https://t.me/den_progman)
 
