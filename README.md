@@ -1,5 +1,4 @@
-# Hi there, I'm Denys 
-<img src="gif/sunglasses.gif" width="30px">
+# Hi there, I'm Denys [<img src="gif/sunglasses.gif" width="30px">]
 
 ### <img src="gif/pro-level-debugging.gif" width="25"> About me:
 
