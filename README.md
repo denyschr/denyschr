@@ -15,7 +15,7 @@ I'm a student and aspiring front-end developer <img src="gif/cat.gif" width="25"
 
 ### <img src="gif/rocket.gif" width="25"> Technologies:
 
-[![Technologies](https://skillicons.dev/icons?i=react,js,dart,html,css,sass,gulp,webpack,tailwind)](https://skillicons.dev)
+[![Technologies](https://skillicons.dev/icons?i=js,dart,html,css,sass,gulp,webpack,tailwind)](https://skillicons.dev)
 
 ---
 
