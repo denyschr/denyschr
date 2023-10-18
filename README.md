@@ -1,6 +1,6 @@
 # Hi there, I'm Denys <img src="gif/sunglasses.gif" width="30px">
 
-### ![About me](gif/pro-level-debugging.gif):
+### <img src="gif/pro-level-debugging.gif" width="25"> About me :
 
 I'm a student and an aspiring front-end developer <img src="gif/cat.gif" width="25"> from Ukraine. I've always been into development and computer science.
 
