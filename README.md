@@ -27,6 +27,7 @@ I'm a student and an aspiring front-end developer <img src="gif/cat.gif" width="
 
 ### <img src="gif/star.gif" width="25"> Keep in touch:
 
+[![Linkedin](https://skillicons.dev/icons?i=linkedin)](https://www.linkedin.com/in/denys-chornoivanenko-b41339290/)
 [![Discrod](https://skillicons.dev/icons?i=discord)](https://discordapp.com/users/929354461783138304)
 
 <img src="img/technologies.png">
