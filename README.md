@@ -5,6 +5,6 @@
 - ⚡ In my free time I do workout, read tech and business articles.
 - 📫 How to reach me: &nbsp; [![Telegram Badge](https://img.shields.io/badge/-den_progman-blue?style=flat&logo=Telegram&logoColor=white)](https://t.me/den_progman)
 
-### <img src="gif/rocket.gif" width="25"> Technologies:
+### <img src="gif/rocket.gif" width="25"> My tech stack:
 
 [![My tech stack](https://skillicons.dev/icons?i=angular,ts,rxjs,sass,webpack)](https://skillicons.dev)
