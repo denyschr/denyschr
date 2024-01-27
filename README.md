@@ -15,4 +15,4 @@ I'm a student and an aspiring front-end developer <img src="gif/cat.gif" width="
 
 ### <img src="gif/rocket.gif" width="25"> Technologies:
 
-[![Technologies](https://skillicons.dev/icons?i=angular,js,ts,html,css,sass,webpack,vite)](https://skillicons.dev)
+[![Technologies](https://skillicons.dev/icons?i=angular,js,ts,html,css,sass,webpack,vite,rxjs)](https://skillicons.dev)
