@@ -7,4 +7,4 @@
 
 ### <img src="gif/rocket.gif" width="25"> Technologies:
 
-[![Technologies](https://skillicons.dev/icons?i=angular,ts,rxjs,sass,webpack,vite)](https://skillicons.dev)
+[![My tech stack](https://skillicons.dev/icons?i=angular,ts,rxjs,sass,webpack)](https://skillicons.dev)
