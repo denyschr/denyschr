@@ -7,4 +7,4 @@
 
 ### <img src="gif/rocket.gif" width="25"> My Tech Stack:
 
-[![My tech stack](https://skillicons.dev/icons?i=angular,ts,rxjs,sass,webpack)](https://skillicons.dev)
+[![Skills](https://skillicons.dev/icons?i=html,css,scss,sass,js,ts,rxjs,angular,gulp,webpack)](https://skillicons.dev)
